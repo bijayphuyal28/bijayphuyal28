@@ -1,11 +1,11 @@
 ### Hi there 👋 I am Bijay Phuyal
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=your-link-here)](https://www.linkedin.com/in/bijayphuyal/)
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter&logoColor=white&link=your-link-here)](https://twitter.com/bijayphuyal11)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bijayphuyal)](https://www.linkedin.com/in/bijayphuyal)
+[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/bijayphuyal11)](https://twitter.com/bijayphuyal11)
 
 ## Github Stats
 
-[![My Github Stats](https://github-readme-stats.vercel.app/api?username=bijayphuyal28&count_private=true&show_icons=true)](https://github.com/YOUR_USERNAME)
+[![My Github Stats](https://github-readme-stats.vercel.app/api?username=bijayphuyal28&count_private=true&show_icons=true)](https://github.com/bijayphuyal28)
 
 <!--
 **bijayphuyal28/bijayphuyal28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
