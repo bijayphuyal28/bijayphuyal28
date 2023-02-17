@@ -25,7 +25,8 @@
 
 ## Github Stats
 
-[![My Github Stats](https://github-readme-stats.vercel.app/api?username=bijayphuyal28&count_private=true&show_icons=true)](https://github.com/bijayphuyal28)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=bijayphuyal28&show_icons=true&theme=merko&icon_color=75a3a3&text_color=78b0a0&bg_color=0a1612)
+
 
 <!--
 **bijayphuyal28/bijayphuyal28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
