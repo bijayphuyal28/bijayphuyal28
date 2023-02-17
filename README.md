@@ -1,7 +1,27 @@
-### Hi there 👋 I am Bijay Phuyal
+### Welcome to my GitHub profile!
+
+### Hi there 👋 I am Bijay Phuyal. 
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bijayphuyal)](https://www.linkedin.com/in/bijayphuyal)
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/bijayphuyal11)](https://twitter.com/bijayphuyal11)
+
+### Tools and Technologies
+
+![Microsoft Office](https://img.shields.io/badge/-Microsoft%20Office-0078D4?style=flat-square&logo=microsoft-office&logoColor=white)
+![Microsoft 365](https://img.shields.io/badge/-Microsoft%20365-0078D4?style=flat-square&logo=microsoft-office&logoColor=white)
+![Microsoft Exchange](https://img.shields.io/badge/-Microsoft%20Exchange-0078D4?style=flat-square&logo=microsoft-exchange&logoColor=white)
+![Active Directory](https://img.shields.io/badge/-Active%20Directory-0078D4?style=flat-square&logo=active-directory&logoColor=white)
+![Azure AD](https://img.shields.io/badge/-Azure%20AD-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
+![MS Teams](https://img.shields.io/badge/-MS%20Teams-6264A7?style=flat-square&logo=microsoft-teams&logoColor=white)
+![SharePoint](https://img.shields.io/badge/-SharePoint-0078D4?style=flat-square&logo=microsoft-sharepoint&logoColor=white)
+![OneDrive](https://img.shields.io/badge/-OneDrive-0078D4?style=flat-square&logo=microsoft-onedrive&logoColor=white)
+![Windows Server](https://img.shields.io/badge/-Windows%20Server-0078D4?style=flat-square&logo=microsoft-windows&logoColor=white)
+![Windows Desktop](https://img.shields.io/badge/-Windows%20Desktop-0078D4?style=flat-square&logo=microsoft-windows&logoColor=white)
+![Intune](https://img.shields.io/badge/-Intune-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+![Power Automation](https://img.shields.io/badge/-Power%20Automation-0089D6?style=flat-square&logo=microsoft-power-automate&logoColor=white)
+![Azure](https://img.shields.io/badge/-Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
 
 ## Github Stats
 
