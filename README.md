@@ -1,5 +1,3 @@
-### Welcome to my GitHub profile!
-
 ### Hi there 👋 I am Bijay Phuyal. 
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bijayphuyal)](https://www.linkedin.com/in/bijayphuyal)
