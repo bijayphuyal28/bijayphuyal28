@@ -1,7 +1,13 @@
-### Hi there 👋 I am Bijay Phuyal. 
+### Hi there 👋 I am Bijay Phuyal, a dynamic and results-driven professional with a passion for problem-solving, revolutionizing Nepal's IT systems through the power of Microsoft Technologies and an unyielding commitment to excellence
 
+### Social Profiles:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bijayphuyal)](https://www.linkedin.com/in/bijayphuyal)
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/bijayphuyal11)](https://twitter.com/bijayphuyal11)
+
+### Certifications: 
+
+[<img src="https://images.credly.com/images/fde83d00-b4cc-4ed4-96fb-8d554450c7e2/MS-900.png" alt="Microsoft 365 Certified: Fundamentals" width="200"/>](https://www.credly.com/badges/8cdbe0a2-08d1-49b8-b45f-7f2d5412adfd/public_url)
+[<img src="https://images.credly.com/images/39d7f2b2-3eb7-45dd-89eb-7a71aa1d84b7/azure-fundamentals-600x600.png" alt="Microsoft Certified: Azure Fundamentals" width="200"/>](https://www.credly.com/badges/8af5eccd-d551-4333-851b-f125f3a583b1/public_url)
 
 ### Tools and Technologies
 
