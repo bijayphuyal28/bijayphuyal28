@@ -1,4 +1,4 @@
-### Hi there 👋 I am Bijay Phuyal, a dynamic and results-driven professional with a passion for problem-solving, revolutionizing Nepal's IT systems through the power of Microsoft Technologies and an unyielding commitment to excellence.
+### Hi there 👋 I am Bijay Phuyal, a dynamic and results-driven professional with a passion for problem-solving and an unyielding commitment to excellence.
 
 ### Social Profiles:
 
