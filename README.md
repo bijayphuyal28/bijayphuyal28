@@ -5,7 +5,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bijayphuyal)](https://www.linkedin.com/in/bijayphuyal)
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/bijayphuyal11)](https://twitter.com/bijayphuyal11)
 
-### Tools and Technologies
+### Technical Skills:
 
 ![Microsoft Office](https://img.shields.io/badge/-Microsoft%20Office-0078D4?style=flat-square&logo=microsoft-office&logoColor=white)
 ![Microsoft 365](https://img.shields.io/badge/-Microsoft%20365-0078D4?style=flat-square&logo=microsoft-office&logoColor=white)
@@ -21,6 +21,12 @@
 ![Power Automation](https://img.shields.io/badge/-Power%20Automation-0089D6?style=flat-square&logo=microsoft-power-automate&logoColor=white)
 ![Azure](https://img.shields.io/badge/-Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows&logoColor=white)
+![Office 365](https://img.shields.io/badge/-Office%20365-0078D4?style=flat-square&logo=microsoft-office&logoColor=white)
+![Hardware](https://img.shields.io/badge/-Hardware-545454?style=flat-square&logoColor=white)
+![Ticketing System](https://img.shields.io/badge/-Ticketing%20System-333333?style=flat-square&logoColor=white)
+![Networking and Security](https://img.shields.io/badge/-Networking%20and%20Security-545454?style=flat-square&logoColor=white)
+![Deployment](https://img.shields.io/badge/-Deployment-545454?style=flat-square&logoColor=white)
 
 
 ## Github Stats
