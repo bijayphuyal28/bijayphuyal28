@@ -23,10 +23,10 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows&logoColor=white)
 ![Office 365](https://img.shields.io/badge/-Office%20365-0078D4?style=flat-square&logo=microsoft-office&logoColor=white)
-![Hardware](https://img.shields.io/badge/-Hardware-545454?style=flat-square&logoColor=white)
-![Ticketing System](https://img.shields.io/badge/-Ticketing%20System-333333?style=flat-square&logoColor=white)
-![Networking and Security](https://img.shields.io/badge/-Networking%20and%20Security-545454?style=flat-square&logoColor=white)
-![Deployment](https://img.shields.io/badge/-Deployment-545454?style=flat-square&logoColor=white)
+![Hardware](https://img.shields.io/badge/-Hardware-545454?style=flat-square&logoColor=white&color=0078D6)
+![Ticketing System](https://img.shields.io/badge/-Ticketing%20System-333333?style=flat-square&logoColor=white&color=0078D6)
+![Networking and Security](https://img.shields.io/badge/-Networking%20and%20Security-545454?style=flat-square&logoColor=white&color=0078D6)
+![Deployment](https://img.shields.io/badge/-Deployment-545454?style=flat-square&logoColor=white&color=0078D6)
 
 
 ## Github Stats
