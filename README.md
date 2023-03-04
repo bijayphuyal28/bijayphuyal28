@@ -5,6 +5,10 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bijayphuyal)](https://www.linkedin.com/in/bijayphuyal)
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/bijayphuyal11)](https://twitter.com/bijayphuyal11)
 
+### Microsoft Learn Profile
+
+### [Bijay Phuyal](https://learn.microsoft.com/en-gb/users/bijayphuyal)
+
 ### Technical Skills:
 
 ![Microsoft Office](https://img.shields.io/badge/-Microsoft%20Office-0078D4?style=flat-square&logo=microsoft-office&logoColor=white)
