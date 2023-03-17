@@ -1,4 +1,5 @@
-### Hi there 👋 I am Bijay Phuyal, a dynamic and results-driven professional with a passion for problem-solving and an unyielding commitment to excellence.
+### Hi there 👋 I am Bijay Phuyal, a dynamic and results-driven professional with a passion for problem-solving, experienced in handling IT Operations and Management,and having in-depth knowledge of various IT domains such as application support, infrastructure support, service operations, etc. 
+
 
 ### Social Profiles:
 
